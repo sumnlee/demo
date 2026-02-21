@@ -10,3 +10,5 @@ first create a veriable call sum and the valu = 0
 
 then run a loop from 1 to 51 to itarate 50 number
 and store it sum
+
+thank you
